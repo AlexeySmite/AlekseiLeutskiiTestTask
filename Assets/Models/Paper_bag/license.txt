@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paper bag
+* source:	https://sketchfab.com/3d-models/paper-bag-9ccf2fce68ea45e0b0861038d5aa035d
+* author:	Jarad Fraser (https://sketchfab.com/JaradFraser)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paper bag" (https://sketchfab.com/3d-models/paper-bag-9ccf2fce68ea45e0b0861038d5aa035d) by Jarad Fraser (https://sketchfab.com/JaradFraser) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
